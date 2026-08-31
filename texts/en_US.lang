@@ -1,5 +1,3 @@
-entity.joeynigro:steve_npc.name=Steve
-item.spawn_egg.entity.joeynigro:steve_npc.name=Spawn Steve
 item.rotten_flesh.name=Rotten Meat
 achievement.killEnemy.desc=Defeat a monster
 achievement.killWither.desc=Defeat the Wither
